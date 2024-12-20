@@ -34,3 +34,4 @@ keymap.set("n", "<leader>tf", "<cmd>tabnew %<CR>", { desc = "Open current buffer
 -- Basic movement
 keymap.set("n", "<leader>/", "f<space>", { desc = "Move to the next white space."})
 keymap.set("n", "<leader>'", "F<space>", { desc = "Move to the previous white space."})
+
